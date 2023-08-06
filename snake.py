@@ -14,7 +14,7 @@ speed = 15
 frame_size_x = 1380
 frame_size_y= 840
 
-##
+##1
 check_errors = pygame.init()
 
 if(check_errors[1] > 0):
